@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kooppi.template.model.entity.JPATest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-19T19:17:19" hostname="Newt-MacBook-Pro.local" time="2.178">
+  <properties/>
+  <testcase name="testJpaEnvironment" classname="com.kooppi.template.model.entity.JPATest" time="2.178"/>
+  <system-out><![CDATA[[EL Info]: 2018-07-20 03:17:21.219--ServerSession(102751554)--EclipseLink, version: Eclipse Persistence Services - 2.7.2.v20180622-f627448
+[EL Info]: connection: 2018-07-20 03:17:21.879--ServerSession(102751554)--/file:/Users/newt.hsieh/eclipse-workspace/persistenceTest/build/resources/main/_persistenceTest login successful
+[EL Info]: connection: 2018-07-20 03:17:21.957--ServerSession(102751554)--/file:/Users/newt.hsieh/eclipse-workspace/persistenceTest/build/resources/main/_persistenceTest logout successful
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
